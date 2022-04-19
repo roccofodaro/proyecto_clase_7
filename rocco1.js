@@ -1,0 +1,1 @@
+let miVariable1 = "Hola soy la variable 1";
